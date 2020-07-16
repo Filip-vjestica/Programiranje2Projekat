@@ -1,0 +1,6 @@
+resources/tilesets/dva_drveta.png
+q 0 0 64 64
+w 64 0 64 64
+e 0 64 64 64
+r 64 64 64 64
+t 128 1128 64 64

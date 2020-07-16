@@ -1,0 +1,2 @@
+resources/creatures/drvo_1.png
+live		2	0 0 64 128

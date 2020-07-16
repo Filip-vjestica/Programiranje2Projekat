@@ -1,0 +1,2 @@
+resources/creatures/drvo_1.png
+stop		2	0 0 128 128

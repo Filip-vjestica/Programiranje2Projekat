@@ -1,0 +1,2 @@
+resources/creatures/lose.png
+stop		1	0 0 128 64

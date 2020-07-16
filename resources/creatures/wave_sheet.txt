@@ -1,0 +1,2 @@
+resources/creatures/wave.png
+stop		1	0 0 32 160

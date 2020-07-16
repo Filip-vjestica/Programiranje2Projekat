@@ -1,0 +1,22 @@
+21 30
+t t t t t t t t t t t t t t q t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t e t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t q t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t e t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t q t t t q t t t q t t t q t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t e t t t e t t t e t t t e t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t

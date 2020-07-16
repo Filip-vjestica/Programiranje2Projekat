@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Programiranje2Projekat" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Programiranje2Projekat" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Programiranje2Projekat" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="../../../../c++ datoteke/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32" />
+			<Add option="-lSDL2main" />
+			<Add option="-lSDL2" />
+			<Add option="-lSDL2_ttf" />
+			<Add option="-lSDL2_image" />
+			<Add directory="../../../../c++ datoteke/lib" />
+		</Linker>
+		<Unit filename="drawable.h" />
+		<Unit filename="engine.cpp" />
+		<Unit filename="engine.h" />
+		<Unit filename="eventlistener.h" />
+		<Unit filename="fueledsprite.cpp" />
+		<Unit filename="fueledsprite.h" />
+		<Unit filename="fuelobject.cpp" />
+		<Unit filename="fuelobject.h" />
+		<Unit filename="keyboardeventlistener.cpp" />
+		<Unit filename="keyboardeventlistener.h" />
+		<Unit filename="level.cpp" />
+		<Unit filename="level.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="movable.h" />
+		<Unit filename="player.cpp" />
+		<Unit filename="player.h" />
+		<Unit filename="sprite.cpp" />
+		<Unit filename="sprite.h" />
+		<Unit filename="spritesheet.cpp" />
+		<Unit filename="spritesheet.h" />
+		<Unit filename="spritetree.cpp" />
+		<Unit filename="spritetree.h" />
+		<Unit filename="tile.cpp" />
+		<Unit filename="tile.h" />
+		<Unit filename="tileset.cpp" />
+		<Unit filename="tileset.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

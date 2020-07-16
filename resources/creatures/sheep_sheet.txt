@@ -1,0 +1,6 @@
+resources/creatures/sheep.png
+walk_down 	3	0 0 64 64 64 0 64 64 128 0 64 64
+walk_left	3	0 64 64 64 64 64 64 64 128 64 64 64
+walk_right	3	0 128 64 64 64 128 64 64 128 128 64 64
+walk_up		3	0 192 64 64 64 192 64 64 128 192 64 64
+stop		1	64 0 64 64

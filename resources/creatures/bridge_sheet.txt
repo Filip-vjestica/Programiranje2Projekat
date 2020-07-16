@@ -1,0 +1,2 @@
+resources/creatures/pravimost.png
+stop		1	0 0 96 224

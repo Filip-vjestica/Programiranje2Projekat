@@ -1,0 +1,2 @@
+resources/tilesets/pravamapa1.png
+g 0 0 640 640
